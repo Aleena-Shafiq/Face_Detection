@@ -1,4 +1,4 @@
-pip install opencv-contrib-python-headless
+!pip install opencv-python-headless
 import cv2
 import streamlit as st
 import numpy as np
